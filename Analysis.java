@@ -1,6 +1,4 @@
-package analysis;
-
-/*
+﻿/*
 * Este programa captura do usuário a aprovação ou reprovação
 * de dez alunos em uma disciplina, faz a soma de quantos foram
 * aprovados e quantos reprovados, e exibe ao instrutor tais dados.
