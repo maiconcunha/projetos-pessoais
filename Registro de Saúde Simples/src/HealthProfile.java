@@ -1,5 +1,3 @@
-package healthprofile;
-
 /*
 * A classe abaixo define os dados de saúde do indíviduo.
 */
