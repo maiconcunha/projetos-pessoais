@@ -63,7 +63,7 @@ public class HealthProfile
     {
         birthYear = integer;
         // configurando idade da pessoa:
-        yearsOld = birthYear - 2015;
+        yearsOld = 2015 - birthYear;
     }
     
     // retorna ano de nascimento:
@@ -123,7 +123,7 @@ public class HealthProfile
     // retorna índice de massa corporal (IMC):
     public double getIMC()
     {
-        return (height * height) / weight;
+        return height / (weight * weight);
     }
     
     // retorna se seu IMC está muito baixo, normal, alto ou muito alto:
@@ -132,7 +132,7 @@ public class HealthProfile
         if (getIMC() < 18.5)
             return "abaixo do peso";
         else if (getIMC() > 18.5 && getIMC() < 25.9)
-            return "normal";
+            return "com o seu peso normal";
         else if (getIMC() > 25.9 && getIMC() < 29.9)
             return "acima do peso";
         else
