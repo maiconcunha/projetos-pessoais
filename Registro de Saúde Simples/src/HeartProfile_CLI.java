@@ -1,5 +1,3 @@
-package healthprofile;
-
 /*
 * A classe abaixo captura do usuário os dados e exibe-os ao usuário juntamente
 * com o IMC e seu índice mais a frequência cardíaca máxima e alvo.
