@@ -46,10 +46,7 @@ LICENÇA:
 
 SOBRE O AUTOR:
 
-	Maicon Rosa da Cunha, programador iniciante auto-didata, apaixonado por
-programação, Java, C, desenvolvimento Web e software livre. Atualmente faz
-graduação de Tecnologia em Redes de Computadores pelo Instituto Federal
-Catarinense - Campus Avançado Sombrio, na cidade de Sombrio/SC.
+	Maicon Rosa da Cunha, programador iniciante auto-didata, apaixonado por programação, Java, C, desenvolvimento Web e software livre. Atualmente faz graduação de Tecnologia em Redes de Computadores pelo Instituto Federal Catarinense - Campus Avançado Sombrio, na cidade de Sombrio/SC.
 
 	contato: maiconrosadacunha@gmail.com
 
